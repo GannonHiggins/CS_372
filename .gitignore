@@ -1,0 +1,47 @@
+.android/
+.cisco/
+.dotnet/
+.gitconfig
+.mputils/
+.nuget/
+.packettracer
+.ssh/
+.templateengine/
+.viminfo
+.vscode/
+        3D Objects/
+        AMDRM_Install.log
+        AMD_RyzenMaster.log
+        AppData/
+        Cisco Packet Tracer 7.2.1/
+        Contacts/
+        Desktop/
+        Documents/
+        Downloads/
+        Favorites/
+        Links/
+        MicrosoftEdgeBackups/
+        Music/
+        NTUSER.DAT
+        NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+        NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive/
+        Saved Games/
+        Searches/
+        Twitch/
+        Videos/
+        VisualRoute Lite Edition-Path
+        VisualRoute/
+        id_rsa.pub
+        id_rsa.pub.pub
+        myproject/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
+        school/
+        source/
+        test/
+        vcpkg/
+        vw/
+        x.log
