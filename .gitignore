@@ -9,6 +9,7 @@
 .templateengine/
 .viminfo
 .vscode/
+.bash_history
 3D Objects/
 AMDRM_Install.log
 AMD_RyzenMaster.log
